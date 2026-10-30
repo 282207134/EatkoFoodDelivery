@@ -1,0 +1,235 @@
+{
+  "document": "Eatko food delivery ui kit",
+  "page": "xd page",
+  "size": {
+    "width": 375,
+    "height": 812
+  },
+  "screens": [
+    {
+      "screen": 1,
+      "name": "品牌启动",
+      "route": "/01",
+      "nodeId": "0:6135",
+      "source": "Screen 01",
+      "reference": "docs/design/screen_01.png",
+      "screenshot": "docs/screenshots/screen_01.png"
+    },
+    {
+      "screen": 2,
+      "name": "美食引导",
+      "route": "/02",
+      "nodeId": "0:6035",
+      "source": "Screen 02",
+      "reference": "docs/design/screen_02.png",
+      "screenshot": "docs/screenshots/screen_02.png"
+    },
+    {
+      "screen": 3,
+      "name": "配送引导",
+      "route": "/03",
+      "nodeId": "0:5939",
+      "source": "Screen 03",
+      "reference": "docs/design/screen_03.png",
+      "screenshot": "docs/screenshots/screen_03.png"
+    },
+    {
+      "screen": 4,
+      "name": "附近餐厅引导",
+      "route": "/04",
+      "nodeId": "0:5792",
+      "source": "Screen 04",
+      "reference": "docs/design/screen_04.png",
+      "screenshot": "docs/screenshots/screen_04.png"
+    },
+    {
+      "screen": 5,
+      "name": "登录",
+      "route": "/05",
+      "nodeId": "0:4584",
+      "source": "Screen 05",
+      "reference": "docs/design/screen_05.png",
+      "screenshot": "docs/screenshots/screen_05.png"
+    },
+    {
+      "screen": 6,
+      "name": "注册",
+      "route": "/06",
+      "nodeId": "0:3359",
+      "source": "Screen 06",
+      "reference": "docs/design/screen_06.png",
+      "screenshot": "docs/screenshots/screen_06.png"
+    },
+    {
+      "screen": 7,
+      "name": "邮箱找回",
+      "route": "/07",
+      "nodeId": "0:3160",
+      "source": "Screen 07",
+      "reference": "docs/design/screen_07.png",
+      "screenshot": "docs/screenshots/screen_07.png"
+    },
+    {
+      "screen": 8,
+      "name": "手机找回",
+      "route": "/08",
+      "nodeId": "0:2960",
+      "source": "Screen 08",
+      "reference": "docs/design/screen_08.png",
+      "screenshot": "docs/screenshots/screen_08.png"
+    },
+    {
+      "screen": 9,
+      "name": "位置选择",
+      "route": "/09",
+      "nodeId": "0:2870",
+      "source": "Screen 09",
+      "reference": "docs/design/screen_09.png",
+      "screenshot": "docs/screenshots/screen_09.png"
+    },
+    {
+      "screen": 10,
+      "name": "手机号填写",
+      "route": "/10",
+      "nodeId": "0:2604",
+      "source": "Screen 10",
+      "reference": "docs/design/screen_10.png",
+      "screenshot": "docs/screenshots/screen_10.png"
+    },
+    {
+      "screen": 11,
+      "name": "验证码确认",
+      "route": "/11",
+      "nodeId": "0:2411",
+      "source": "Screen 11",
+      "reference": "docs/design/screen_11.png",
+      "screenshot": "docs/screenshots/screen_11.png"
+    },
+    {
+      "screen": 12,
+      "name": "注册成功",
+      "route": "/12",
+      "nodeId": "0:2309",
+      "source": "Screen 12",
+      "reference": "docs/design/screen_12.png",
+      "screenshot": "docs/screenshots/screen_12.png"
+    },
+    {
+      "screen": 13,
+      "name": "首页",
+      "route": "/13",
+      "nodeId": "0:1892",
+      "source": "Screen 13",
+      "reference": "docs/design/screen_13.png",
+      "screenshot": "docs/screenshots/screen_13.png"
+    },
+    {
+      "screen": 14,
+      "name": "菜品详情",
+      "route": "/14",
+      "nodeId": "0:1813",
+      "source": "Screen 14",
+      "reference": "docs/design/screen_14.png",
+      "screenshot": "docs/screenshots/screen_14.png"
+    },
+    {
+      "screen": 15,
+      "name": "搜索结果",
+      "route": "/15",
+      "nodeId": "0:1662",
+      "source": "Screen 15",
+      "reference": "docs/design/screen_15.png",
+      "screenshot": "docs/screenshots/screen_15.png"
+    },
+    {
+      "screen": 16,
+      "name": "购物车",
+      "route": "/16",
+      "nodeId": "0:1532",
+      "source": "Screen 16",
+      "reference": "docs/design/screen_16.png",
+      "screenshot": "docs/screenshots/screen_16.png"
+    },
+    {
+      "screen": 17,
+      "name": "食品筛选",
+      "route": "/17",
+      "nodeId": "0:1205",
+      "source": "Screen 17",
+      "reference": "docs/design/screen_17.png",
+      "screenshot": "docs/screenshots/screen_17.png"
+    },
+    {
+      "screen": 18,
+      "name": "添加地址",
+      "route": "/18",
+      "nodeId": "0:1071",
+      "source": "Screen 18",
+      "reference": "docs/design/screen_18.png",
+      "screenshot": "docs/screenshots/screen_18.png"
+    },
+    {
+      "screen": 19,
+      "name": "地址确认",
+      "route": "/19",
+      "nodeId": "0:945",
+      "source": "Screen 19",
+      "reference": "docs/design/screen_19.png",
+      "screenshot": "docs/screenshots/screen_19.png"
+    },
+    {
+      "screen": 20,
+      "name": "支付方式",
+      "route": "/20",
+      "nodeId": "0:865",
+      "source": "Screen 20",
+      "reference": "docs/design/screen_20.png",
+      "screenshot": "docs/screenshots/screen_20.png"
+    },
+    {
+      "screen": 21,
+      "name": "银行卡",
+      "route": "/21",
+      "nodeId": "0:809",
+      "source": "Screen 21",
+      "reference": "docs/design/screen_21.png",
+      "screenshot": "docs/screenshots/screen_21.png"
+    },
+    {
+      "screen": 22,
+      "name": "配送跟踪",
+      "route": "/22",
+      "nodeId": "0:722",
+      "source": "Screen 22",
+      "reference": "docs/design/screen_22.png",
+      "screenshot": "docs/screenshots/screen_22.png"
+    },
+    {
+      "screen": 23,
+      "name": "个人中心",
+      "route": "/23",
+      "nodeId": "0:594",
+      "source": "Screen 23",
+      "reference": "docs/design/screen_23.png",
+      "screenshot": "docs/screenshots/screen_23.png"
+    },
+    {
+      "screen": 24,
+      "name": "配送评价",
+      "route": "/24",
+      "nodeId": "0:476",
+      "source": "Screen 24",
+      "reference": "docs/design/screen_24.png",
+      "screenshot": "docs/screenshots/screen_24.png"
+    },
+    {
+      "screen": 25,
+      "name": "侧边菜单",
+      "route": "/25",
+      "nodeId": "0:9",
+      "source": "Screen 25",
+      "reference": "docs/design/screen_25.png",
+      "screenshot": "docs/screenshots/screen_25.png"
+    }
+  ]
+}
